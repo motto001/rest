@@ -1,0 +1,30 @@
+{
+    "remotePath": "./",
+    "host": "ftp.menkuotto.hu",
+    "username": "yokokapo_rest@menkuotto.hu",
+    "password": "motto6814",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "**/.vscode",
+        "**/.git",
+        "**/.DS_Store",
+        "**/.sftpConfig.json",
+         "**/vendor",
+         "**/.env"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
+
+
+

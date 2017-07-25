@@ -163,6 +163,7 @@ return [
 
  Unisharp\Laravelfilemanager\LaravelFilemanagerServiceProvider::class,
  Intervention\Image\ImageServiceProvider::class,
+Collective\Html\HtmlServiceProvider::class,
 
     ],
 

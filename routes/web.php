@@ -63,3 +63,4 @@ Auth::routes(['login' => 'auth.login']);
   Route::get('api/schedules', 'SchedulerController@index')->name('apiSchedules');
 
 });
+Route::resource('admin/posts', 'Admin\\PostsController');
